@@ -9,7 +9,7 @@ import Emoji from './components/Emoji/EmojiChanger'
 function App() {
 
   return (
-    <Emoji />
+    <BigCats />
   )
 }
 
