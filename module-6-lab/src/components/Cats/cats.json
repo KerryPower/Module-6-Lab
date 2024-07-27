@@ -1,0 +1,9 @@
+[
+  { "name": "Cheetah", "latinName": "Acinonyx jubatus", "image": "cheetah.jpg" },
+  { "name": "Leopard", "latinName": "Panthera pardus", "image": "leopard.jpg" },
+  { "name": "Jaguar", "latinName": "Panthera onca", "image": "jaguar.jpg" },
+  { "name": "Tiger", "latinName": "Panthera tigris", "image": "tiger.jpg" },
+  { "name": "Cougar", "latinName": "Puma concolor", "image": "cougar.jpg" },
+  { "name": "Lion", "latinName": "Panthera leo", "image": "lion.jpg" },
+  { "name": "Snow leopard", "latinName": "Panthera uncia", "image": "snow_leopard.jpg" }
+]
