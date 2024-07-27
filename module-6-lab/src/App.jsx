@@ -5,11 +5,12 @@ import './App.css'
 import { Greeting } from './components/Greeting/Greeting'
 import BigCats from './components/Cats/BigCats'
 import Emoji from './components/Emoji/EmojiChanger'
+import Calculator from './components/Calculator/Calculator'
 
 function App() {
 
   return (
-    <BigCats />
+    <Calculator />
   )
 }
 
